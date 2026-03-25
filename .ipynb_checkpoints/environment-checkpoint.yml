@@ -6,5 +6,3 @@ dependencies:
   - jupyter
   - openpyxl
   - pandas
-
-prefix: "/Users/paul/mamba/envs/edit-distance"
