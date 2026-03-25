@@ -28,6 +28,7 @@ dependencies:
   - debugpy=1.8.20=py314h3dd0261_0
   - decorator=5.2.1=pyhd8ed1ab_0
   - defusedxml=0.7.1=pyhd8ed1ab_0
+  - et_xmlfile=2.0.0=pyhd8ed1ab_1
   - exceptiongroup=1.3.1=pyhd8ed1ab_0
   - executing=2.2.1=pyhd8ed1ab_0
   - fqdn=1.5.1=pyhd8ed1ab_1
@@ -94,6 +95,7 @@ dependencies:
   - notebook=7.5.5=pyhcf101f3_0
   - notebook-shim=0.2.4=pyhd8ed1ab_1
   - numpy=2.4.3=py314ha4d8615_0
+  - openpyxl=3.1.5=py314hc627673_3
   - openssl=3.6.1=hd24854e_1
   - overrides=7.7.0=pyhd8ed1ab_1
   - packaging=26.0=pyhcf101f3_0

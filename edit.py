@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Read your Excel document as a dataframe (df)
-df = pd.read_excel("input.xlsx")
+df = pd.read_excel("taxa.xlsx")
 
 # Define a distance metric
 def dist(row):
