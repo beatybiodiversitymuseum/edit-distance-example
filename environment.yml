@@ -1,10 +1,5 @@
-name: edit-distance
+name: base
 channels:
-  - conda-forge
 dependencies:
-  - ipykernel
-  - jupyter
-  - openpyxl
-  - pandas
 
-prefix: "/Users/paul/mamba/envs/edit-distance"
+prefix: "/Users/paul/mamba"
