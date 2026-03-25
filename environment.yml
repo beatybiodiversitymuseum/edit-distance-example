@@ -8,3 +8,4 @@ dependencies:
   - openpyxl
   - pandas
   - python-levenshtein
+  - nltk
