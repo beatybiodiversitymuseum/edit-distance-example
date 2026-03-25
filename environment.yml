@@ -2,7 +2,9 @@ name: edit-distance
 channels:
   - conda-forge
 dependencies:
+  - python=3.11
   - ipykernel
   - jupyter
   - openpyxl
   - pandas
+  - python-levenshtein
